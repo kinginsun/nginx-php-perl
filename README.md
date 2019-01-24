@@ -3,7 +3,6 @@
 网站根目录 ./code
 
  - 支持php和perl脚本执行
- - 支持修改 nginx.conf, php-fpm.conf 等配置文件
  - server 配置在 conf/site.conf
 
 ## 使用
