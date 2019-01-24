@@ -17,8 +17,6 @@ services:
         image: php:fpm
         volumes:
             - ./code:/code
-            - ./conf/php-fpm/php-fpm.conf:/usr/local/etc/php-fpm.conf
-            - ./conf/php-fpm/www.conf:/usr/local/etc/php-fpm.d/www.conf
             - ./conf/php-fpm/zz-docker.conf:/usr/local/etc/php-fpm.d/zz-docker.conf
             - "phpsocket:/var/run/php-fpm"
         networks:
