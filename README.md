@@ -21,6 +21,8 @@ http 相关的参数在 conf/nginx/nginx.conf 中修改
 ## php-fpm
 配置文件在 conf/php-fpm
 
+在zz-docker.conf 中分别修改 global 和 www 对应的配置参数
+
 ## socket文件：
 php-fpm: /var/run/php-fpm/php7-fpm.sock
 
