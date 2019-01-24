@@ -23,6 +23,7 @@ http 相关的参数在 conf/nginx/nginx.conf 中修改
 
 ## socket文件：
 php-fpm: /var/run/php-fpm/php7-fpm.sock
+
 perl-fcgi: /var/run/perl-fcgi/perl_cgi-dispatch.sock
 
 ## docker-compose.yml
