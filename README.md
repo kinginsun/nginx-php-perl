@@ -32,3 +32,7 @@ perl-fcgi: /var/run/perl-fcgi/perl_cgi-dispatch.sock
 ports: 修改本地映射端口
 
 volumes: ./code 修改本地代码路径
+
+## 致谢
+
+参考 [Yep, a platypus.](http://geekyplatypus.com/dockerise-your-php-application-with-nginx-and-php7-fpm/)的文章
