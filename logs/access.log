@@ -1,0 +1,6 @@
+221.124.88.172 - - [23/Jan/2019:14:13:05 +0000] "GET / HTTP/1.1" 200 95237 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:64.0) Gecko/20100101 Firefox/64.0"
+221.124.88.172 - - [23/Jan/2019:14:13:32 +0000] "GET / HTTP/1.1" 200 95229 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:64.0) Gecko/20100101 Firefox/64.0"
+221.124.88.172 - - [23/Jan/2019:14:20:12 +0000] "GET / HTTP/1.1" 200 95064 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:64.0) Gecko/20100101 Firefox/64.0"
+221.124.88.172 - - [23/Jan/2019:14:21:08 +0000] "GET /abc.html HTTP/1.1" 200 13 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:64.0) Gecko/20100101 Firefox/64.0"
+80.82.70.187 - - [23/Jan/2019:21:59:01 +0000] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 404 153 "-" "Mozilla"
+62.227.215.132 - - [23/Jan/2019:22:41:23 +0000] "*1" 400 157 "-" "-"
